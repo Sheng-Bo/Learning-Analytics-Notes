@@ -4,4 +4,6 @@ layout: default
 published: true
 ---
 
-Here is my page. How are you? Fine, thank you.
+# Here is my page. 
+## How are you? 
+## Fine, thank you.
