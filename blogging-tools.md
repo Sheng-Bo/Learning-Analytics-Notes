@@ -22,3 +22,4 @@ http://www.minddust.com/post/tags-and-categories-on-github-pages/
 
 # Site/Theme Setup
 https://github.com/pages-themes/cayman
+http://dh.obdurodon.org/jekyll.xhtml
